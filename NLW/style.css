@@ -33,12 +33,3 @@ body, input, button, textarea{
     font: 500 1.6rem Poppins;
     color: var(--color-text-base);
 }
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-#container{
-    border: 1px solid red;
-    padding: 10px 40px 60px 2px;
-}
