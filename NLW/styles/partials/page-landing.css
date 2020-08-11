@@ -89,5 +89,14 @@
         display: grid;
         grid-template-columns: 2fr 1fr 2fr;
         grid-template-rows: 350px 1fr;
+        grid-template-areas: 
+        "proffy image image"
+        "button button texting"
+
     }
+
+    .logo-container {}
+    .hero-image {}
+    .buttons-container {}
+    .total-connections {}
 }
