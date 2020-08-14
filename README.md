@@ -1,2 +1,2 @@
 # Aplication Proffy
- Aplicação criada durante a NLW(Next Level Week).
+Aplicação criada durante a NLW(Next Level Week)
